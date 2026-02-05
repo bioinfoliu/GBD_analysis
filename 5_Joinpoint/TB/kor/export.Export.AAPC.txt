@@ -1,0 +1,4 @@
+"sex_name"	"Joinpoint Model"	"AAPC Index"	"Start Obs"	"End Obs"	"AAPC"	"AAPC C.I. Low"	"AAPC C.I. High"	"Statistically Significant (0=No  1=Yes)"	"Test Statistic"	"P-Value"
+"Both"	5	"Full Range"	1990	2021	-3.9996	-4.1776	-3.8213	1	-43.1151	0.000000
+"Female"	5	"Full Range"	1990	2021	-3.7978	-3.9338	-3.6616	1	-53.6491	0.000000
+"Male"	4	"Full Range"	1990	2021	-4.3205	-4.4938	-4.1469	1	-47.7562	0.000000

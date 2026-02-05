@@ -1,0 +1,4 @@
+"sex_name","Joinpoint.Model","AAPC.Index","Start.Obs","End.Obs","val","lower","upper","Statistically.Significant..0.No..1.Yes.","Test.Statistic","P.Value","AAPC"
+"Both",5,"Full Range",1980,2021,"-3.09","-3.20","-2.99",1,-57.3239,0,"-3.09 (-3.20 - -2.99)"
+"Female",5,"Full Range",1980,2021,"-3.28","-3.42","-3.14",1,-44.746,0,"-3.28 (-3.42 - -3.14)"
+"Male",5,"Full Range",1980,2021,"-2.98","-3.09","-2.87",1,-52.3763,0,"-2.98 (-3.09 - -2.87)"

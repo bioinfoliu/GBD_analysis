@@ -1,0 +1,3 @@
+"location_name"	"Joinpoint Model"	"AAPC Index"	"Start Obs"	"End Obs"	"AAPC"	"AAPC C.I. Low"	"AAPC C.I. High"	"Statistically Significant (0=No  1=Yes)"	"Test Statistic"	"P-Value"
+"China"	4	"Full Range"	1990	2019	-0.730	-0.756	-0.705	1	-55.616	0.000
+"Global"	5	"Full Range"	1990	2019	0.475	0.450	0.499	1	38.207	0.000
