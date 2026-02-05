@@ -1,0 +1,13 @@
+measure_name,location_name,age_name,cause_name,metric_name,year,val,upper,lower,UI
+Deaths,Global,All ages,Tuberculosis,Number,2021,1162796,1313985,1050008,"1162796 (1050008,1313985)"
+Deaths,Republic of Korea,All ages,Tuberculosis,Number,2021,2641,3158,2170,"2641 (2170,3158)"
+DALYs (Disability-Adjusted Life Years),Global,All ages,Tuberculosis,Number,2021,46977463,52463556,42482994,"46977463 (42482994,52463556)"
+DALYs (Disability-Adjusted Life Years),Republic of Korea,All ages,Tuberculosis,Number,2021,49826,58318,42843,"49826 (42843,58318)"
+YLDs (Years Lived with Disability),Global,All ages,Tuberculosis,Number,2021,4385027,5920443,2949783,"4385027 (2949783,5920443)"
+YLDs (Years Lived with Disability),Republic of Korea,All ages,Tuberculosis,Number,2021,5181,7123,3341,"5181 (3341,7123)"
+YLLs (Years of Life Lost),Global,All ages,Tuberculosis,Number,2021,42592436,48100943,38093888,"42592436 (38093888,48100943)"
+YLLs (Years of Life Lost),Republic of Korea,All ages,Tuberculosis,Number,2021,44645,52669,37615,"44645 (37615,52669)"
+Prevalence,Global,All ages,Tuberculosis,Number,2021,1911816784,2100447765,1733433144,"1911816784 (1733433144,2100447765)"
+Prevalence,Republic of Korea,All ages,Tuberculosis,Number,2021,8201773,9504760,7109959,"8201773 (7109959,9504760)"
+Incidence,Global,All ages,Tuberculosis,Number,2021,8407133,9393767,7519793,"8407133 (7519793,9393767)"
+Incidence,Republic of Korea,All ages,Tuberculosis,Number,2021,29329,33763,24705,"29329 (24705,33763)"

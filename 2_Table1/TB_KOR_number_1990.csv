@@ -1,0 +1,13 @@
+measure_name,location_name,age_name,cause_name,metric_name,year,val,upper,lower,UI
+Deaths,Global,All ages,Tuberculosis,Number,1990,1778869,1980801,1532822,"1778869 (1532822,1980801)"
+Deaths,Republic of Korea,All ages,Tuberculosis,Number,1990,8150,9678,7080,"8150 (7080,9678)"
+DALYs (Disability-Adjusted Life Years),Global,All ages,Tuberculosis,Number,1990,82679773,91407746,73004989,"82679773 (73004989,91407746)"
+YLDs (Years Lived with Disability),Global,All ages,Tuberculosis,Number,1990,4719440,6433748,3143839,"4719440 (3143839,6433748)"
+YLLs (Years of Life Lost),Global,All ages,Tuberculosis,Number,1990,77960333,86733963,68340670,"77960333 (68340670,86733963)"
+DALYs (Disability-Adjusted Life Years),Republic of Korea,All ages,Tuberculosis,Number,1990,269718,309570,238541,"269718 (238541,309570)"
+YLDs (Years Lived with Disability),Republic of Korea,All ages,Tuberculosis,Number,1990,13632,18370,9171,"13632 (9171,18370)"
+YLLs (Years of Life Lost),Republic of Korea,All ages,Tuberculosis,Number,1990,256087,294497,225922,"256087 (225922,294497)"
+Prevalence,Global,All ages,Tuberculosis,Number,1990,1605364975,1777421464,1440332859,"1605364975 (1440332859,1777421464)"
+Prevalence,Republic of Korea,All ages,Tuberculosis,Number,1990,17152811,18252726,15975133,"17152811 (15975133,18252726)"
+Incidence,Global,All ages,Tuberculosis,Number,1990,8598520,9854794,7528228,"8598520 (7528228,9854794)"
+Incidence,Republic of Korea,All ages,Tuberculosis,Number,1990,51779,56810,47275,"51779 (47275,56810)"
